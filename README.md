@@ -15,16 +15,10 @@
 
 ### 安装
 
-通过`pip`（推荐）：
-
-```
-pip install CDNDrive
-```
-
 从源码安装：
 
 ```
-pip install git+https://github.com/apachecn/CDNDrive
+pip install git+https://github.com/rdp-studio/CDNDrive
 ```
 
 ### 登录
@@ -188,13 +182,3 @@ META URL：`bdrive://d28784bff1086450a6c331fb322accccd382228e`
 本项目基于 [Hsury](https://github.com/Hsury) 的 [BiliDrive](https://github.com/Hsury/BiliDrive)，在此表示感谢。
 
 同时感谢 [goocarder](https://v2ex.com/t/618064) 提供的思路。
-
-## 赞助我们
-
-![](https://home.apachecn.org/img/about/donate.jpg)
-
-## 另见
-
-+   [ApacheCN 学习资源](https://docs.apachecn.org/)
-+   [计算机电子书](http://it-ebooks.flygon.net)
-+   [布客新知](http://flygon.net/ixinzhi/)

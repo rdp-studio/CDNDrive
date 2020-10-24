@@ -13,7 +13,7 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 setuptools.setup(
     name="CDNDrive",
     version=CDNDrive.__version__,
-    url="https://github.com/apachecn/CDNDrive",
+    url="https://github.com/rdp-studio/CDNDrive",
     author=CDNDrive.__author__,
     author_email=CDNDrive.__email__,
     classifiers=[
